@@ -211,4 +211,8 @@ function loop() {
 
 $("#message-modal-close").on("click", function () {
   document.location.reload();
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> origin/main
